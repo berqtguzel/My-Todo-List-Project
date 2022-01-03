@@ -1,0 +1,34 @@
+.card-body{
+    
+    color: white;
+background-color: #202020 !important;
+}
+.card-header{
+    color: white;
+    background-color: #4C4C4C !important;
+}
+body{
+    background-color: #222222 !important; 
+}
+.list-group-item{
+   background-color:  #181818 !important;  
+}
+.form-control{
+    color: white; 
+    background-color:  #181818 !important;  
+    
+}
+input[type=text]:focus {
+    color: white;
+    border: 0.1px  rgb(0, 85, 7)  !important;
+  }
+  .textList{
+    display: flex;
+    justify-content: center;
+      font-size: 25px;
+  }
+
+
+.success{
+border-radius: 50px;
+}
